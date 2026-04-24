@@ -13,6 +13,7 @@ I retrieved the FASTA sequences for both species from the NCBI database and perf
 
 **Multiple Sequence Alignment:**
 ![MSA Output](msa_output.png)
+
 **Phylogenetic Tree:**
 ![Phylo Tree](phylo_tree.png)
 
@@ -28,10 +29,13 @@ I retrieved the 3D structure of protein p53 from RCSB and visualized it using th
 
 **Whole Structure:**
 ![p53 Structure](p53_structure.png)
+
 **Side view of p53:**
 ![side View](3D_p53_sideview.png)
+
 **Binding sites:**
 ![Binding Site](binding_site.png)
+
 **Arg248 Residue:**
 ![Arg248](Arg248_residue.png)
 
